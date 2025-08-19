@@ -7,6 +7,7 @@ A Text-to-Image Transformer Latent Diffusion model for Fashion MNIST, featuring 
 This project implements a transformer-based diffusion model for text-to-image generation. The model progressively refines noise into Fashion MNIST images through a series of denoising steps, conditioned on text labels.
 
 ![Combined Fashion MNIST Classes](viz/readme_grid_2x5.gif)
+
 *Each frame shows a different random seed, for 8500th step. Classes are arranged left-to-right: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle boot.*
 
 ## Key Features
